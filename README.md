@@ -1,12 +1,12 @@
 # Product_labeling_using_image
-Labeling product listings using product photos
+Labeling product listings using product images
 
 # Files:
 **product_labeling_using_image.ipynb**: jupyter notebook with project code
 
-**images.csv**: dataset contains 44,447 jpg images of different articles of clothing. This will be merged to styles.csv in the project and used for predicting product labels.
+**images.csv**: dataset contains 44,446 jpg images of different articles of clothing. This will be merged to styles.csv in the project and used for predicting product labels.
 
-**styles.csv**: dataset contains 44,447 product ids with information about the product: gender, masterCategory, subCategory, articleType, baseColour, season, year, usage, productDisplayName
+**styles.csv**: dataset contains 44,446 product ids with information about the product: gender, masterCategory, subCategory, articleType, baseColour, season, year, usage, productDisplayName
 we will use the images from images.csv to predict the product's articleType (i.e. Shirts, Jeans, Watches, Pants, etc.
 
 
